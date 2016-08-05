@@ -266,6 +266,8 @@ header {
     text-align: center;
     color: #fff;
     background-image: url(../img/header-bg.jpg);
+    height: auto;
+    width: auto;
     background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
